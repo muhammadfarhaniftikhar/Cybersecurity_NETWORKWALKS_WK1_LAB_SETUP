@@ -230,8 +230,6 @@ I learned that documenting commands, configuration, screenshots, problems, and s
 
 This laboratory is intended strictly for educational purposes only.
 
-All security testing must be conducted on systems owned by me or where explicit authorization has been granted.
-
 ## 🔗 Tools & Resources
 
 - [7-Zip](https://7-zip.org/download.html),[Win_RAR](https://www.win-rar.com/)
@@ -247,7 +245,7 @@ All security testing must be conducted on systems owned by me or where explicit 
 - **Certification:** Certified Ethical Hacker (CEH), EC-Council
 - **Areas of Interest:** Cybersecurity, Penetration Testing, Network Security and Ethical Hacking
 
-  LinkedIn: www.linkedin.com/in/m-farhan-iftikhar/
+  LinkedIn: www.linkedin.com/in/m-farhan-iftikhar-7a7832322
 
 ## 📌 Project Information
 

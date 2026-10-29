@@ -43,6 +43,7 @@ It can be used for activities such as:
 ⚠️ **Important:** This laboratory must only be used for systems that you own or have explicit permission to test. Do not use the lab or its tools to attack unauthorized systems.
 
 ## 🏗️ Lab Architecture
+
 ![Cybersecurity Lab Architecture](<Cybersecurity Testing Lab Architecture.png>)
 Additional target machines can be added to the same virtual network in future projects.
 
@@ -84,6 +85,7 @@ A dedicated NAT Network was created in VirtualBox.
 - IPv4 Prefix: `10.0.0.0/24`
 - DHCP: Enabled
 - IPv6: Disabled
+  
   ![VirtualBox Configuration](<Screenshot (4).png>)
 
 A NAT Network was selected because multiple virtual machines connected to the same NAT Network can communicate with one another while also having outbound network connectivity.
@@ -93,19 +95,22 @@ This will allow future attacker and target VMs to communicate within the lab.
 ### Step 4. Import Kali Linux
 
 The Kali Linux virtual machine was downloaded from the official Kali Linux website and imported into VirtualBox.
+![Kali Linux Setup](<Screenshot (5).png>)
 
 The VM network adapter was configured as follows:
 
 **Adapter 1**
 
 - Attached to: NAT Network
-- Network: `NatNetwork`
+- Network: NatNetwork
+  ![Kali Linux Setup](<Screenshot (5).png>)
 
 The VM was allocated:
 
 - RAM: 2048 MB
 
 A shared folder was also configured for transferring required files between the host operating system and the Kali VM.
+![Kali Linux Setup](<Screenshot (6).png>)
 
 ### Step 5. Configure the Kali Linux Network
 
@@ -140,6 +145,7 @@ If a future exercise changes or damages the VM configuration, the machine can be
 | 📡 Test gateway | `ping 10.0.0.1` | Successful replies |
 | 🌍 Test Internet connectivity | `ping 8.8.8.8` | Successful replies |
 | 🧰 Verify Nmap | `nmap --version` | Nmap version displayed |
+![Connectivity Test](<Screenshot (7).png>)
 
 ### Example Results
 

@@ -1,4 +1,4 @@
-# 🔐 Cybersecurity WK1 NETWORKWALKS Lab Environment Setup
+# 🔐 Cybersecurity_NETWORKWALKS_WK1_Lab_Setup
 
 **Building an isolated virtual lab for penetration testing and ethical hacking practice**
 
@@ -8,7 +8,7 @@
 
 This project focuses on setting up a virtual cybersecurity and penetration-testing laboratory using VirtualBox and Kali Linux.
 
-The purpose of the lab is to create a controlled environment where cybersecurity tools, network scanning, reconnaissance, vulnerability assessment, and other security-testing activities can be performed safely and repeatedly.
+The purpose of the lab is to create a controlled environment where cybersecurity tools, network scanning, reconnaissance, vulnerability assessment and other security-testing activities can be performed safely and repeatedly.
 
 The lab is configured on a private virtual network so that additional machines can be added later and used as targets for authorized security testing.
 
@@ -68,7 +68,7 @@ Additional target machines can be added to the same virtual network in future pr
 
 7-Zip was installed to extract the Kali Linux virtual-machine package, which may be distributed as a `.7z` archive.
 
-**Tool:** 7-Zip
+**Tool:** 7-Zip,WIN_RAR
 
 ### Step 2. Install VirtualBox
 
@@ -99,7 +99,6 @@ The VM network adapter was configured as follows:
 
 - Attached to: NAT Network
 - Network: `NatNetwork`
-- Adapter Type: Intel PRO/1000 MT Desktop
 
 The VM was allocated:
 
@@ -230,7 +229,7 @@ All security testing must be conducted on systems owned by me or where explicit 
 
 ## 🔗 Tools & Resources
 
-- [7-Zip](https://7-zip.org/download.html)
+- [7-Zip](https://7-zip.org/download.html),[Win_RAR](https://www.win-rar.com/)
 - [VirtualBox](https://virtualbox.org/wiki/Downloads)
 - [Kali Linux](https://kali.org/get-kali)
 

@@ -95,7 +95,7 @@ This will allow future attacker and target VMs to communicate within the lab.
 ### Step 4. Import Kali Linux
 
 The Kali Linux virtual machine was downloaded from the official Kali Linux website and imported into VirtualBox.
-![Kali Linux Setup](<Screenshot (5).png>)
+![Kali Linux Setup](<Screenshot (8).png>)
 
 The VM network adapter was configured as follows:
 

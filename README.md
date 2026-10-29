@@ -246,7 +246,8 @@ All security testing must be conducted on systems owned by me or where explicit 
 
 - **Certification:** Certified Ethical Hacker (CEH), EC-Council
 - **Areas of Interest:** Cybersecurity, Penetration Testing, Network Security and Ethical Hacking
--  LinkdIn:www.linkedin.com/in/m-farhan-iftikhar/
+
+  LinkedIn: www.linkedin.com/in/m-farhan-iftikhar/
 
 ## 📌 Project Information
 

@@ -43,7 +43,7 @@ It can be used for activities such as:
 ⚠️ **Important:** This laboratory must only be used for systems that you own or have explicit permission to test. Do not use the lab or its tools to attack unauthorized systems.
 
 ## 🏗️ Lab Architecture
-
+![Cybersecurity Lab Architecture](<Cybersecurity Testing Lab Architecture.png>)
 Additional target machines can be added to the same virtual network in future projects.
 
 ## ⚙️ Lab Configuration

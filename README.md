@@ -52,7 +52,7 @@ Additional target machines can be added to the same virtual network in future pr
 |---|---|
 | 🖥️ Host OS | Windows 10 |
 | 🧠 Host RAM | 8 GB |
-| ⚡ Processor | Intel Core i6 |
+| ⚡ Processor | Intel Core i5 |
 | 🧰 Hypervisor | VirtualBox 7.2 |
 | 🐉 Security OS | Kali Linux 2026.2 |
 | 🧠 Kali RAM | 2048 MB |
@@ -239,6 +239,7 @@ All security testing must be conducted on systems owned by me or where explicit 
 
 - **Certification:** Certified Ethical Hacker (CEH), EC-Council
 - **Areas of Interest:** Cybersecurity, Penetration Testing, Network Security and Ethical Hacking
+- **LinkdIn:**www.linkedin.com/in/m-farhan-iftikhar/
 
 ## 📌 Project Information
 
